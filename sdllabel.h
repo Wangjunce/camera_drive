@@ -10,4 +10,4 @@ public:
     SdlLabel();
 };
 
-#endif // SDLLABEL_H
+#endif // SDLLABEL_H1
